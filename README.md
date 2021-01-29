@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Riyad Morshed Shoeb. I am an undergraduate student at [Department of Computer Science and Engineering](https://www.cse.ruet.ac.bd/) in [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd)
 
 <!--
 **rmShoeb/rmShoeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
