@@ -3,7 +3,7 @@ My name is Riyad Morshed Shoeb. I am an undergraduate student at [Department of 
 
 - 🌱 I’m currently learning Natural Language Processing using Machine Learning.
 
-[<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>](https://www.likedin.com/in/rmshoeb)
+[LinkedIn](https://www.likedin.com/in/rmshoeb)
 
 <!--
 **rmShoeb/rmShoeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
