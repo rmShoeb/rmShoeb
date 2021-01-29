@@ -5,7 +5,7 @@ I’m currently learning Natural Language Processing using Machine Learning.
 
 **Connect with me**
 ----
-[<img src="linkedin.svg" alt="rmshoeb | LinkedIn" width="22px">](https://www.likedin.com/in/rmshoeb)
+[<img src="linkedin.svg" alt="rmshoeb | LinkedIn" width="22px">](https://www.linkedin.com/in/rmshoeb)
 [<img src="facebook.svg" alt="R.M. Shoeb | Facebook" width="22px">](https://www.facebook.com/rmShoeb14)
 
 <!--
