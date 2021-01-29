@@ -4,6 +4,9 @@ My name is Riyad Morshed Shoeb. I am an undergraduate student at [Department of 
 I’m currently learning Natural Language Processing using Machine Learning.
 
 ### Language and Tools
+<img src="c.svg" alt="" width="25px">
+<img src="cplusplus.svg" alt="" width="25px">
+<img src="python.svg" alt="" width="25px">
 
 **📫 How to reach me**
 ----
@@ -24,5 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://github.com/anuraghazra/github-readme-stats
+https://simpleicons.org/
 <img src=".svg" alt="" width="25px">
 -->
