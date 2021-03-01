@@ -8,8 +8,8 @@ I’m currently learning Natural Language Processing using Deep Learning.
 
 **📫 How to reach me**
 ----
-[<img src="linkedin.svg" alt="rmshoeb | LinkedIn" width="25px">](https://www.linkedin.com/in/rmshoeb)&nbsp;&nbsp;&nbsp;
-[<img src="facebook.svg" alt="R.M. Shoeb | Facebook" width="25px">](https://www.facebook.com/rmShoeb14)
+[<img src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" alt="rmshoeb"/>](https://www.linkedin.com/in/rmshoeb)&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/cute-clipart/50/000000/facebook-new.png" alt="R.M. Shoeb"/>](https://www.facebook.com/rmShoeb14)
 
 <!--
 **rmShoeb/rmShoeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
