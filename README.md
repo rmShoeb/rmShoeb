@@ -4,7 +4,7 @@ My name is Riyad Morshed Shoeb. I am an undergraduate student at [Department of 
 I’m currently learning Natural Language Processing using Deep Learning.
 
 ### Languages I am familiar with
-<img src="https://simpleicons.org/icons/c.svg" alt="" width="25px">&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/cplusplus.svg" alt="" width="25px">&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/python.svg" alt="" width="25px">&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/nolan/25/java-coffee-cup-logo.png"/>
+<img src="https://simpleicons.org/icons/c.svg" alt="" width="25px">&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/cplusplus.svg" alt="" width="25px">&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/python.svg" alt="" width="25px">&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/nolan/50/java-coffee-cup-logo.png"/>
 
 **📫 How to reach me**
 ----
