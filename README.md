@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Riyad Morshed Shoeb. I am an undergraduate student at [Department of Computer Science and Engineering](https://www.cse.ruet.ac.bd/) in [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd)
 
-**I’m currently learning Source Code Analysis using Deep Learning.**
+**I’m currently working on Source Code Analysis using Deep Learning.**
 
 ---
 
