@@ -3,7 +3,7 @@ My name is Riyad Morshed Shoeb. I am an undergraduate student at [Department of 
 
 **I’m currently working on Source Code Analysis using Deep Learning.**
 
-<img src="https://github-readme-stats.vercel.app/api?username=rmShoeb"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=rmShoeb"/> -->
 
 ---
 
