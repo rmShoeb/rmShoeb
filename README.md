@@ -1,4 +1,4 @@
-## Hi there, I'm Riyad Morshed Shoeb 👋
+## **Hi there, I'm Riyad Morshed Shoeb 👋**
 
 [![Website](https://img.shields.io/website?label=rmshoeb.github.io&url=https%3A%2F%2Frmshoeb.github.io)](https://rmshoeb.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rmShoeb14?color=1DA1F2&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrmShoeb&screen_name=rmShoeb14)
@@ -12,8 +12,6 @@
 
 ### Connect with me:
 
-[<img alt="rmshoeb.github.io" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]&nbsp;
-[<img alt="rmShoeb14 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 [<img src="https://img.icons8.com/cute-clipart/30/000000/linkedin.png" alt="rmshoeb | Linkedin"/>][linkedin]&nbsp;
 [<img src="https://img.icons8.com/cute-clipart/30/000000/facebook-new.png" alt="R.M. Shoeb | Facebook"/>][facebook]&nbsp;
 [<img src="https://img.icons8.com/fluent/30/000000/gmail.png" alt="rmshoebne14@gmail.com"/>][email]
