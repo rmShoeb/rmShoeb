@@ -1,7 +1,8 @@
 ## Hi there, I'm Riyad Morshed Shoeb 👋
 
-<!-- [![Website](https://img.shields.io/website?label=rmshoeb.github.io&style=for-the-badge&url=https%3A%2F%2Frmshoeb.github.io)](https://rmshoeb.github.io/) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/rmShoeb14?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrmShoeb&screen_name=rmShoeb14)
+[![Website](https://img.shields.io/website?label=rmshoeb.github.io&url=https%3A%2F%2Frmshoeb.github.io)](https://rmshoeb.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rmShoeb14?color=1DA1F2&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrmShoeb&screen_name=rmShoeb14)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/rmShoeb?style=social) -->
 
 ### I am an undergraduate student at [Department of Computer Science and Engineering][ruet-cse] in [Rajshahi University of Engineering and Technology][ruet]
 
