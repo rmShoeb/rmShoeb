@@ -35,12 +35,16 @@
 
 ---
 
-<details>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmShoeb&layout=compact&langs_count=8&theme=algolia">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmShoeb&amp;langs_count=8&amp;theme=algolia"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=rmShoeb&theme=react-dark">
+
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="rmShoeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmShoeb&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 <!-- <details> -->
   <!-- <summary>:zap: Recent GitHub Activity</summary> -->
