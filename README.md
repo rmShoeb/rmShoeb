@@ -1,19 +1,19 @@
 ## **Hi there, I'm Riyad Morshed Shoeb 👋**
 
 [![Website](https://img.shields.io/website?label=rmshoeb.github.io&url=https%3A%2F%2Frmshoeb.github.io)](https://rmshoeb.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rmShoeb14?color=1DA1F2&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrmShoeb&screen_name=rmShoeb14)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/rmShoeb14?color=1DA1F2&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrmShoeb&screen_name=rmShoeb14) -->
 <!-- ![GitHub followers](https://img.shields.io/github/followers/rmShoeb?style=social) -->
 
 ### I am an undergraduate student at [Department of Computer Science and Engineering][ruet-cse] in [Rajshahi University of Engineering and Technology][ruet]
 
 <!-- - 🔭👯  -->
-- 🌱 I’m currently learning Source Code Analysis using Deep Learning.
+- 🌱 I’m currently working on Defense against Trojan attacks on text classification models (Neural Networks).
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 
 ### Connect with me:
 
-[<img src="https://img.icons8.com/cute-clipart/30/000000/linkedin.png" alt="rmshoeb | Linkedin"/>][linkedin]&nbsp;
-[<img src="https://img.icons8.com/cute-clipart/30/000000/facebook-new.png" alt="R.M. Shoeb | Facebook"/>][facebook]&nbsp;
+[<img src="https://img.icons8.com/fluency/30/000000/linkedin.png" alt="rmshoeb | Linkedin"/>][linkedin]&nbsp;
+[<img src="https://img.icons8.com/color/30/000000/facebook-new.png" alt="R.M. Shoeb | Facebook"/>][facebook]&nbsp;
 [<img src="https://img.icons8.com/fluent/30/000000/gmail.png" alt="rmshoebne14@gmail.com"/>][email]
 <br />
 
@@ -23,14 +23,16 @@
 <img src="https://img.icons8.com/color/30/000000/c-programming.png"/>&nbsp;
 <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>&nbsp;
 <img src="https://img.icons8.com/color/30/000000/python.png"/>&nbsp;
-<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
-<img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
-<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
-<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp;
-<img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
-<!-- <img src="https://img.icons8.com/nolan/30/java-coffee-cup-logo.png"/>&nbsp;
+<img src="https://img.icons8.com/nolan/30/java-coffee-cup-logo.png"/>&nbsp;
 <img src="https://img.icons8.com/offices/30/000000/php-logo.png"/>&nbsp;
-<img src="https://img.icons8.com/color/30/000000/css3.png"/>&nbsp; -->
+<img src="https://img.icons8.com/color/30/000000/mysql-logo.png" alt="MySQL"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/>&nbsp;
+<img src="https://img.icons8.com/officel/30/000000/console.png" alt="Terminal"/>&nbsp;
+<img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>&nbsp;
+<!--
+<img src="https://img.icons8.com/color/30/000000/css3.png"/>&nbsp;
+<img alt="GitHub" src="https://img.icons8.com/ios-filled/30/000000/github.png" />&nbsp;
+-->
 <br />
 
 ---
