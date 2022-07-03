@@ -26,7 +26,7 @@
 <img src="https://img.icons8.com/nolan/30/java-coffee-cup-logo.png"/>&nbsp;
 <img src="https://img.icons8.com/offices/30/000000/php-logo.png"/>&nbsp;
 <img src="https://img.icons8.com/color/30/000000/mysql-logo.png" alt="MySQL"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30px" alt="Git"/>&nbsp;
 <img src="https://img.icons8.com/officel/30/000000/console.png" alt="Terminal"/>&nbsp;
 <img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>&nbsp;
 <!--
