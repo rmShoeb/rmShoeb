@@ -39,23 +39,12 @@
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmShoeb&layout=compact&langs_count=8&theme=algolia"></td>
-<td><img align="left" alt="rmShoeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmShoeb&show_icons=true&hide_border=true8&theme=algolia" /></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmShoeb&langs_count=5&hide=jupyter notebook&theme=algolia"></td>
+<td><img align="left" alt="rmShoeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmShoeb&custom_title=My Github stats&show_icons=true&hide_border=true8&theme=algolia" /></td>
 </tr>
 </table>
 <img src="https://activity-graph.herokuapp.com/graph?username=rmShoeb&theme=react-dark">
 
-
-<!-- <details> -->
-  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-1. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing) -->
-<!--END_SECTION:activity-->
-<!-- </details> -->
 
 [ruet]: https://www.ruet.ac.bd
 [ruet-cse]: https://www.cse.ruet.ac.bd/
@@ -64,4 +53,3 @@
 [linkedin]: https://linkedin.com/in/rmshoeb
 [facebook]: https://facebook.com/rmShoeb14
 [email]: mailto:rmshoebne14@gmail.com
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
