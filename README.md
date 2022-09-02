@@ -42,7 +42,7 @@
 
 ---
 
-<table>
+<table style="text-align:center">
     <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmShoeb&theme=vue"></td>
         <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rmShoeb"></td>
