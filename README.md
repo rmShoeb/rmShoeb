@@ -1,3 +1,4 @@
+
 ## **Hi there, I'm Riyad Morshed Shoeb 👋**
 
 [![Website](https://img.shields.io/website?label=rmshoeb.github.io&url=https%3A%2F%2Frmshoeb.github.io)](https://rmshoeb.github.io/)
@@ -37,12 +38,12 @@
 
 ---
 
-<table>
+<!--table>
 <tr>
 <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmShoeb&langs_count=5&hide=jupyter notebook&theme=algolia"></td>
-<td><img align="left" alt="rmShoeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmShoeb&custom_title=My Github stats&show_icons=true&hide_border=true8&theme=algolia" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=rmShoeb&custom_title=My Github stats&show_icons=true&hide_border=true8&theme=algolia" /></td>
 </tr>
-</table>
+</table-->
 <img src="https://activity-graph.herokuapp.com/graph?username=rmShoeb&theme=react-dark">
 
 
