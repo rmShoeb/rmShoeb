@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/rmshoeb"><img src="https://img.shields.io/badge/rmshoeb-1589FF?logo=linkedin&logoColor=white" alt="rmshoeb | Linkedin"/></a>
 <a href="https://facebook.com/rmShoeb14"><img src="https://img.shields.io/badge/R.M. Shoeb-1877F2?logo=facebook&logoColor=white" alt="R.M. Shoeb | Facebook"/></a>
 <a href="https://t.me/rmShoeb"><img src="https://img.shields.io/badge/rmShoeb-0a49c7?logo=telegram&logoColor=white"></a>
-&nbsp;<img src="https://img.shields.io/badge/9016-rmShoeb-5865F2?logo=discord&logoColor=white">
+<a href="#"><img src="https://img.shields.io/badge/9016-rmShoeb-5865F2?logo=discord&logoColor=white"></a>
 
 <h3><strong>Languages and Tools</strong></h3>
 
