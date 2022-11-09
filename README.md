@@ -2,13 +2,14 @@
 
 <h3><strong>Currently...</strong></h3>
 <ul>
-    <li>🎓 an undergraduate student at <a href="https://www.cse.ruet.ac.bd/">Department of Computer Science and Engineering</a> in <a href="https://www.ruet.ac.bd">Rajshahi University of Engineering and Technology</a>.</li>
+    <li>🎓 Undergraduate student at <a href="https://www.cse.ruet.ac.bd/">Department of Computer Science and Engineering</a> in <a href="https://www.ruet.ac.bd">Rajshahi University of Engineering and Technology</a>.</li>
+    <li>💼 Software Engineer - Level 1 at <a href="https://www.enosisbd.com/">Enosis Solution</a></li>
     <li>🔥 Interested in CP/Algo-DS and AI/ML.</li>
-    <li>🌱 working on Defense against Trojan attacks on text classification models (Neural Networks).</li>
     <li>🥅 2022 Goal: not be broke.</li>
-    <li>💼 Open to Work for Software Engineer Role.</li>
 </ul>
 <!--
+<li>🌱 working on Defense against Trojan attacks on text classification models (Neural Networks).</li>
+    
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with...
 - 💬 Ask me about ... 
