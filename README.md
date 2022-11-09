@@ -3,7 +3,7 @@
 <h3><strong>Currently...</strong></h3>
 <ul>
     <li>🎓 Undergraduate student at <a href="https://www.cse.ruet.ac.bd/">Department of Computer Science and Engineering</a> in <a href="https://www.ruet.ac.bd">Rajshahi University of Engineering and Technology</a>.</li>
-    <li>💼 Software Engineer - Level 1 at <a href="https://www.enosisbd.com/">Enosis Solution</a></li>
+    <li>💼 Software Engineer - Level 1 at <a href="https://www.enosisbd.com/">Enosis Solutions</a></li>
     <li>🔥 Interested in CP/Algo-DS and AI/ML.</li>
     <li>🥅 2022 Goal: not be broke.</li>
 </ul>
