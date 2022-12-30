@@ -1,11 +1,11 @@
 <h2><strong>Hi there, I'm Riyad Morshed Shoeb 👋</strong></h2>
 
-<h3><strong>Currently...</strong></h3>
+<h3><strong>ABOUT ME...</strong></h3>
 <ul>
-    <li>🎓 Undergraduate student at <a href="https://www.cse.ruet.ac.bd/">Department of Computer Science and Engineering</a> in <a href="https://www.ruet.ac.bd">Rajshahi University of Engineering and Technology</a>.</li>
-    <li>💼 Software Engineer - Level 1 at <a href="https://www.enosisbd.com/">Enosis Solutions</a></li>
+    <li>🎓 Undergraduate from <a href="https://www.ruet.ac.bd">Rajshahi University of Engineering and Technology</a> in <a href="https://www.cse.ruet.ac.bd/">Computer Science and Engineering</a>.</li>
+    <li>💼 <strong>Currently:</strong> Software Engineer - Level 1 at <a href="https://www.enosisbd.com/">Enosis Solutions</a></li>
     <li>🔥 Interested in CP/Algo-DS and AI/ML.</li>
-    <li>🥅 2022 Goal: not be broke.</li>
+    <li>🥅 2023 Goal: Improve my skills.</li>
 </ul>
 <!--
 <li>🌱 working on Defense against Trojan attacks on text classification models (Neural Networks).</li>
