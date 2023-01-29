@@ -52,7 +52,7 @@
         <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=rmShoeb"></td>
     </tr>
     <tr>
-        <td colspan="2"><img  src="https://activity-graph.herokuapp.com/graph?username=rmShoeb&theme=react-dark"></td>
+        <td colspan="2"><img  src="https://github-readme-activity-graph.cyclic.app/graph?username=rmShoeb&theme=github-compact"></td>
     </tr>
 </table>
 
