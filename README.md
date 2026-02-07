@@ -4,6 +4,7 @@
 <ul>
     <li>🎓 Undergraduate from <a href="https://www.ruet.ac.bd">Rajshahi University of Engineering and Technology</a> in <a href="https://www.cse.ruet.ac.bd/">Computer Science and Engineering</a>.</li>
     <li>💼 <strong>Currently: </strong>Senior Software Engineer @ <a href="https://www.enosisbd.com/">Enosis Solutions</a></li>
+    <li>Working on some pet projects.</li>
 </ul>
 
 <h3><strong>Languages and Tools</strong></h3>
@@ -25,11 +26,11 @@
 <table>
     <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmShoeb&theme=vue"></td>
-        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rmShoeb"></td>
+        <td><img src="[https://github-readme-streak-stats.herokuapp.com/?user=rmShoeb](https://github-readme-streak-stats.herokuapp.com?user=rmShoeb&hide_border=true)"></td>
     </tr>
-    <tr>
+    <!--tr>
         <td colspan="2"><img  src="https://github-readme-activity-graph.vercel.app/graph?username=rmShoeb&theme=react-dark"></td>
-    </tr>
+    </tr-->
 </table>
 
 <hr>
